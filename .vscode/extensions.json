@@ -1,0 +1,11 @@
+// CTRL+x and type @recommended:workspace to filter list
+{
+    "recommendations": [
+      "serayuzgur.crates",
+      "tamasfe.even-better-toml",
+      "rust-lang.rust-analyzer",
+      "usernamehw.errorlens",
+      "rangav.vscode-thunder-client",
+      "Kamen.noctis-high-contrast"
+    ]
+  }
