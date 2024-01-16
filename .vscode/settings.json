@@ -18,9 +18,9 @@
         "editorInlayHint.typeForeground": "#666866f0",
         "editorInlayHint.parameterForeground": "#5c5e5cf0",
         // colorize background of selected tab
-        "tab.activeBackground": "#ffffff20",
+        "tab.activeBackground": "#e80b0b81",
         // current selected file highlight in explorer list
-        "list.inactiveSelectionBackground": "#e80b0bd3",
+        "list.inactiveSelectionBackground": "#e80b0b81",
     }
     },
     "cSpell.words": ["dotenv", "dotenvy"],
